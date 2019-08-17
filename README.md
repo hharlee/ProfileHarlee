@@ -1,5 +1,8 @@
 ## Personal Information
 
+![Alt Text](https://github.com/hharlee/ProfileHarlee/blob/master/harlee.jpg)
+
+
 Name: Harlee Horng 
 
 Student Number: s3717748
