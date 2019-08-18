@@ -1,6 +1,6 @@
 ## Personal Information
 
-![Harlee](https://github.com/hharlee/ProfileHarlee/blob/master/harlee.jpg)
+![Harlee](harlee.jpg)
 
 
 Name: Harlee Horng 
