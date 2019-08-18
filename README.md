@@ -2,12 +2,11 @@
 
 ![Harlee](harlee.jpg)
 
+**Name**: Harlee Horng 
 
-Name: Harlee Horng 
+**Student Number**: s3717748
 
-Student Number: s3717748
-
-Email Address: Harlee_horng1999@hotmail.com 
+**Email Address**: Harlee_horng1999@hotmail.com 
 
 My name is Harlee Horng, born in Australia in the year of 1999. My nationality is Cambodian as both of my parents are from there. When I was younger, my parents were firm believers of the Buddhism religion, therefore, so was my older sister and me. We would attend events held at the temple on occasions, including the major Chinese New Year festival which took place annually. By the age of 8, I was able to speak the Cambodian language (Khmer) fluently, but the ability to speak it faded away as I grew up and now, I am only able to understand it. Growing up, my family consisted of my mum, dad, sister and me. This changed in the year of 2014, when my dad remarried. A year after the marriage, a little stepsister joined our family who is currently 4 years old and currently attending kindergarten. I had a standard education like most other people, consisting of; kindergarten, primary school, high school and now currently studying at university. I graduated in the year of 2017 with a low ATAR, which required me to complete a year of a diploma course before transferring to a bachelors degree at RMIT. I acquired my first job at Maccas whilst I was in year 12 and I am still working there right now. As soon as I had enough money to afford a decent computer, I spent all my savings that I had at the time to build my computer. My hobby is playing video games on my PC. One specific game that I enjoy the most is ‘League of Legends’ which I have played consistently and constantly for 6 years.
 
@@ -27,7 +26,7 @@ During my studies at RMIT university, I expect to acquire knowledge, skills and 
 
 https://www.seek.com.au/job/39630732?searchrequesttoken=099b6bbf-f8bf-4c3d-8aee-b38cfeca8776&type=standout
 
-![Job](https://github.com/hharlee/ProfileHarlee/blob/master/1step.png)
+![Job](1step.png)
 
 The advertised IT job involves working in a team environment and collaborating with different departments of the business, assisting with any issues regarding IT. This involves; managing and attending to tickets daily and performing all assigned tasks, responding to all phone calls, tickets and or emails received and providing excellent customer service in a fast and efficient manner. The working hours of this I.T support job is from 8:30am to 5pm for a total of 5 days a week from Monday to Friday. Three days of which will be at a customer site, while the other two days will be spent in the office. This is appealing to me as it allows for a variety of work in different spaces with reasonable hours. The advertisement does not explicitly display the salary rate for the job; however, similar jobs offer a pay of approximately 50k a year. 1step communication’s Melbourne support centre is in Port Melbourne, which is 40 minutes away from the CBD.
 
@@ -39,11 +38,11 @@ Due to the specifications of the IT job requiring prior knowledge of help desk j
 
 ### Personal Profile
 
-![Test1](https://github.com/hharlee/ProfileHarlee/blob/master/t1.png)
+![Test1](t1.png)
 
-![Test2](https://github.com/hharlee/ProfileHarlee/blob/master/t2.png)
+![Test2](t2.png)
 
-![Test3](https://github.com/hharlee/ProfileHarlee/blob/master/t3.png)
+![Test3](t3.png)
 
 The results of these tests show that I am introverted and prefer to work independently. They convey that I take a more observant approach to group work and participate with low levels of openness.  I believe that because I am more inclined to agree with people, it would cause less disruption and arguments in a team. As a result, I feel that I would be a good group member in terms of completing my part of the project. Regarding forming a team, I think it would be best to group up with people with the same or similar attributes as I have.
 
