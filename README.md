@@ -44,6 +44,6 @@ Due to the specifications of the IT job requiring prior knowledge of help desk j
 
 ![Test3](https://github.com/hharlee/ProfileHarlee/blob/master/t3.png)
 
-The results of these tests show that I am introverted and prefer to work independently. They convey that I take a more observant approach to group work and participation with low levels of openness.  I believe that because I am more inclined to agree with people, it would cause less disruption and arguments in a team. As a result, I feel that I would be a good group member in terms of doing my part of the project. Regarding forming a team, I think it would be best to group up with people with the same or similar attributes as I have.
+The results of these tests show that I am introverted and prefer to work independently. They convey that I take a more observant approach to group work and participate with low levels of openness.  I believe that because I am more inclined to agree with people, it would cause less disruption and arguments in a team. As a result, I feel that I would be a good group member in terms of completing my part of the project. Regarding forming a team, I think it would be best to group up with people with the same or similar attributes as I have.
 
 
